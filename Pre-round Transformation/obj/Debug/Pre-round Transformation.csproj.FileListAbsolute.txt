@@ -1,0 +1,10 @@
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.exe.config
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.exe
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.pdb
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.Form1.resources
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.Properties.Resources.resources
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Pre-round Transformation.csproj.GenerateResource.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Pre-round Transformation.csproj.CoreCompileInputs.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.exe
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.pdb
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Pre-round Transformation.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.exe
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.deps.json
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.runtimeconfig.json
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.runtimeconfig.dev.json
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.dll
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\ref\AES-Program.dll
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.pdb
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csprojAssemblyReference.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES_Program.AES.resources
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csproj.GenerateResource.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.AssemblyInfoInputs.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.AssemblyInfo.cs
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csproj.CoreCompileInputs.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.dll
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\ref\AES-Program.dll
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.pdb
+E:\ISE\ISE_S21\HW-S\CR\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.genruntimeconfig.cache
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.dll
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\ref\AES-Program.dll
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.pdb
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.exe
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.deps.json
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.runtimeconfig.json
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.runtimeconfig.dev.json
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.dll
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\ref\AES-Program.dll
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\bin\Debug\net5.0-windows\AES-Program.pdb
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES_Program.AES.resources
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csproj.GenerateResource.cache
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.AssemblyInfo.cs
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA PC\Desktop\وظايف جاهزة للتسليم\crr assignment\AES\AES-Program\AES-Program\obj\Debug\net5.0-windows\AES-Program.genruntimeconfig.cache

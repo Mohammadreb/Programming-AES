@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ISE\\ISE_S21\\HW-S\\CR\\AES\\Round\\Round\\Round.csproj": {}
+  },
+  "projects": {
+    "E:\\ISE\\ISE_S21\\HW-S\\CR\\AES\\Round\\Round\\Round.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ISE\\ISE_S21\\HW-S\\CR\\AES\\Round\\Round\\Round.csproj",
+        "projectName": "Round",
+        "projectPath": "E:\\ISE\\ISE_S21\\HW-S\\CR\\AES\\Round\\Round\\Round.csproj",
+        "packagesPath": "C:\\Users\\M-Power\\.nuget\\packages\\",
+        "outputPath": "E:\\ISE\\ISE_S21\\HW-S\\CR\\AES\\Round\\Round\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M-Power\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\ISE\\ISE_F20\\WB_C1\\WB\\ISE_S16_WB_ammar_67532\\ISE_S16_WB\\packages": {},
+          "E:\\ISE\\ISE_F20\\WB_C1\\WB\\ISE_S16_WB_ammar_67532\\ISE_S16_WB\\packages\\EntityFramework.6.1.3": {},
+          "E:\\ISE\\ISE_F20\\WB_C1\\WB\\SVU_ISE_WB_HW_S20_ABDULLAH_78872\\SVU_ISE_WB_HW_S20_ABDULLAH_78872\\HW_WB\\packages": {},
+          "E:\\ISE\\ISE_F20\\WB_C1\\WB\\Search_Engine_S17\\Search_Engine\\packages": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

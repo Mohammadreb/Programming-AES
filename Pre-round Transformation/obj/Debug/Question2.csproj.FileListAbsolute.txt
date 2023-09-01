@@ -1,0 +1,19 @@
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\bin\Debug\Question2.exe.config
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\bin\Debug\Question2.exe
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\bin\Debug\Question2.pdb
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.Form1.resources
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.exe
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.pdb
+C:\Users\TOSHIBA PC\Desktop\CR ASSIGNMENT\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.exe.config
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.exe
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\bin\Debug\Question2.pdb
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.Form1.resources
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.Properties.Resources.resources
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.csproj.GenerateResource.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.exe
+E:\ISE\ISE_S21\HW-S\CR\AES\Pre-round Transformation\obj\Debug\Question2.pdb
